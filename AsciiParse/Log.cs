@@ -10,6 +10,7 @@ namespace AsciiParse
     {
         public static void WriteLog(Exception Ex)
         {
+            //String s;
             string ErrTime = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
             string ErrSource = Ex.Source;
             string ErrTargetSite = Ex.TargetSite.ToString();
