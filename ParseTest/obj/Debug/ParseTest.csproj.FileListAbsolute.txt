@@ -1,0 +1,11 @@
+F:\AsciiParseSolu\ParseTest\obj\Debug\ParseTest.csproj.AssemblyReference.cache
+F:\AsciiParseSolu\ParseTest\obj\Debug\ParseTest.csproj.CoreCompileInputs.cache
+F:\AsciiParseSolu\ParseTest\bin\Debug\ParseTest.exe
+F:\AsciiParseSolu\ParseTest\bin\Debug\ParseTest.pdb
+F:\AsciiParseSolu\ParseTest\obj\Debug\ParseTest.exe
+F:\AsciiParseSolu\ParseTest\obj\Debug\ParseTest.pdb
+F:\AsciiParseSolu\ParseTest\bin\Debug\AsciiParse.dll
+F:\AsciiParseSolu\ParseTest\bin\Debug\AsciiParse.pdb
+F:\AsciiParseSolu\ParseTest\obj\Debug\ParseTest.csproj.CopyComplete
+F:\AsciiParseSolu\ParseTest\bin\Debug\Newtonsoft.Json.dll
+F:\AsciiParseSolu\ParseTest\bin\Debug\Newtonsoft.Json.xml

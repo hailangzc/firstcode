@@ -1,0 +1,11 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/packages
+/WebApi/obj
+/ParseTest/bin/Debug/LogReport
+/AsciiParse/bin/Debug
+/AsciiParse/AsciiParse.csproj
+/AsciiParse/obj
+/AsciiParseSolu

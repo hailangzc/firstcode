@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\hello"
   ],
-  "SelectedNode": "\\1.txt",
+  "SelectedNode": "\\hello\\hello.txt",
   "PreviewInSolutionExplorer": false
 }
